@@ -85,31 +85,6 @@ python bscs24093_AI_MiniProj2.py
 
 ---
 
-## Project Structure
-
-```
-PCA-Face-Recognition-Yale/
-│
-├── bscs24093_AI_MiniProj2.py
-├── bscs24093_AI_MiniProj2.pdf
-├── README.md
-├── requirements.txt
-└── yale/
-```
-
----
-
-## Requirements
-
-Create a `requirements.txt` file with:
-
-```
-numpy
-opencv-python
-```
-
----
-
 ## Notes
 - The dataset is not included due to size and licensing considerations
 - Ensure correct folder structure before running the code
